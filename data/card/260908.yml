@@ -5,13 +5,13 @@ about:
   head: 7231384
   archived: false
   latestVersion: "v4.0.0"
-  collectedAt: 2026-09-08T02:40:57Z
+  collectedAt: 2026-09-08T05:25:32Z
 timeline:
   created: 2024-07-29
   lastCommit: 2026-07-13
   lastRelease: 2026-07-13
 popularity:
-  star: 12765
+  star: 12768
   watcher: 80
   fork: 1844
   release: 11
@@ -83,7 +83,7 @@ total:
   commit: 120
 ---
 path: /home/runner/.x-repo/github.com/abus-aikorea/voice-pro
-collectedAt: 2026-09-08T02:41:02Z
+collectedAt: 2026-09-08T05:25:37Z
 loc:
   Python:
     code: 35592
