@@ -12,35 +12,7 @@ Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) a
 x install voice-pro
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/abus-aikorea/voice-pro>
-- **Homepage**: <https://www.wctokyoseoul.com>
-- **License**: GPL-3.0
-
-## Release
-
-- **Latest**: `v4.0.0` (2026-07-13)
-- **Last commit**: 2026-07-13
-- **Published**: 2026-07-13T00:18:37Z
-
-## Popularity
-
-- **Stars**: 12,779 · **Forks**: 1,845 · **Open issues**: 63 · **Contributors**: 2
-
-## Totals (cumulative)
-
-- **Releases**: 11 · **Merged PRs**: 0 · **Open PRs**: 23 · **Closed issues**: 26 · **Open issues**: 37 · **Commits**: 120
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 1 | 0 | 14 | 0 | 1 | 6 |
-| 360d | 2025-09-15 | 3 | 0 | 23 | 2 | 17 | 8 |
-
-## Code size
+## Code insight
 
 Total: **40,507** lines of code across **318** files in the top 5 languages.
 
@@ -52,13 +24,43 @@ Total: **40,507** lines of code across **318** files in the top 5 languages.
 | JavaScript | 433 | 73 | 97 | 5 |
 | Yaml | 378 | 134 | 116 | 53 |
 
+## Source
+
+- **Upstream**: <https://github.com/abus-aikorea/voice-pro>
+- **Homepage**: <https://www.wctokyoseoul.com>
+- **License**: GPL-3.0
+
+## Release
+
+- **Latest**: `v4.0.0` (2026-07-13)
+- **Last commit**: 2026-07-13
+
+## Popularity
+
+- **Stars**: 12,782 · **Forks**: 1,845 · **Open issues**: 63 · **Contributors**: 2
+
+## Totals (cumulative)
+
+- **Releases**: 11 · **Merged PRs**: 0 · **Open PRs**: 23 · **Closed issues**: 26 · **Open issues**: 37 · **Commits**: 120
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 1 | 0 | 14 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 1 | 0 | 14 | 0 | 1 | 6 |
+| last180d | 2026-03-14 | 1 | 0 | 19 | 2 | 13 | 6 |
+| 360d | 2025-09-15 | 3 | 0 | 23 | 2 | 17 | 8 |
+| last720d | 2024-09-20 | 11 | 0 | 23 | 26 | 37 | 90 |
+
 ## Improve this data
 
 Install metadata for voice-pro lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `voice-pro` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/voice-pro.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/voice-pro.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:25:17Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:51:43Z._
