@@ -37,7 +37,7 @@ Total: **40,507** lines of code across **318** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 12,849 · **Forks**: 1,853 · **Open issues**: 63 · **Contributors**: 2
+- **Stars**: 12,852 · **Forks**: 1,854 · **Open issues**: 63 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **40,507** lines of code across **318** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-22 | 0 | 0 | 14 | 0 | 0 | 0 |
-| 90d | 2026-06-22 | 1 | 0 | 14 | 0 | 0 | 6 |
-| last180d | 2026-03-24 | 1 | 0 | 18 | 2 | 11 | 6 |
-| 360d | 2025-09-25 | 3 | 0 | 23 | 2 | 16 | 8 |
-| last720d | 2024-09-30 | 11 | 0 | 23 | 26 | 37 | 90 |
+| 30d | 2026-08-22 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-23 | 0 | 0 | 4 | 0 | 0 | 0 |
+| 90d | 2026-06-23 | 1 | 0 | 14 | 0 | 0 | 6 |
+| last180d | 2026-03-25 | 1 | 0 | 18 | 2 | 11 | 6 |
+| 360d | 2025-09-26 | 3 | 0 | 23 | 2 | 16 | 8 |
+| last720d | 2024-10-01 | 11 | 0 | 23 | 26 | 37 | 90 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for voice-pro lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:43:40Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:53:25Z._
